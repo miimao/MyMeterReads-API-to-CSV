@@ -1,0 +1,10 @@
+email = ""
+email_password = ""
+ftpdir = ""
+excluded_propertys =    []
+company_id = ""
+cw_manage_public = ""
+cw_manage_private = ""
+client_id = ""
+mymeterreadurl = ""
+mymeterreadkey = ""
